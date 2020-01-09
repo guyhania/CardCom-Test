@@ -1,0 +1,10 @@
+C:\Users\guyha\Desktop\CardCom Project\CardCom\DB\bin\Debug\DB.dacpac
+C:\Users\guyha\Desktop\CardCom Project\CardCom\DB\bin\Debug\DB.dll
+C:\Users\guyha\Desktop\CardCom Project\CardCom\DB\bin\Debug\DB.pdb
+C:\Users\guyha\Desktop\CardCom Project\CardCom\DB\obj\Debug\Model.xml
+C:\Users\guyha\Desktop\CardCom Project\CardCom\DB\obj\Debug\refactor.xml
+C:\Users\guyha\Desktop\CardCom Project\CardCom\DB\obj\Debug\postdeploy.sql
+C:\Users\guyha\Desktop\CardCom Project\CardCom\DB\obj\Debug\predeploy.sql
+C:\Users\guyha\Desktop\CardCom Project\CardCom\DB\obj\Debug\DB.dll
+C:\Users\guyha\Desktop\CardCom Project\CardCom\DB\obj\Debug\DB.pdb
+C:\Users\guyha\Desktop\CardCom Project\CardCom\DB\obj\Debug\DB.sqlprojAssemblyReference.cache
